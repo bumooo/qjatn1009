@@ -24,11 +24,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnl7qjs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- :wave: Hi, I’m @edenist-x-x
+- :wave: Hi, I’m @qjatn1009
 - :eyes: I’m interested in Java / Backend / Frontend ...
 - :seedling: I’m currently learning Algorithms ...
 - :fire: I’m learning on SSAFY (Samsung Software Academy For Youth) 
-- :mailbox: How to reach me @edenist_x_x
+- :mailbox: How to reach me @qjatn1009
 
 <!---
 edenist-x-x/edenist-x-x is a :sparkles: special :sparkles: repository because its README.md (this file) appears on your GitHub profile.
